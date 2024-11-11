@@ -319,3 +319,13 @@ background: linear-gradient(180deg, rgba(91,28,228,1) 44%, rgba(9,9,9,1) 100%);
   padding: 5px;
 }
   }
+
+  ::-webkit-scrollbar{
+    width: 10px;
+   background: rgb(91,28,228);
+background: linear-gradient(180deg, rgba(91,28,228,1) 44%, rgba(9,9,9,1) 100%);
+
+  }
+   ::-webkit-scrollbar-thumb{
+    background-color: rgb(255, 71, 71);
+   }
